@@ -1,0 +1,66 @@
+{
+    "time": 1678063347.540101,
+    "data": {
+        "github_url": "https://github.com/jxmked",
+        "username": "jxmked",
+        "email": "jovandeguia@gmail.com",
+        "id": 40567091,
+        "name": "Jovan",
+        "country": "Philippines",
+        "blog_url": "xio.netlify.app",
+        "public_repos": 29,
+        "public_gists": 5,
+        "followers": 15,
+        "following": 28,
+        "socials": {
+            "twitter": {
+                "user": "jxmked",
+                "url": "https://twitter.com/jxmked",
+                "icon": {
+                    "type": "svg",
+                    "url": "@resources/assets/icons/twitter.svg"
+                }
+            },
+            "facebook": {
+                "user": "deguia25",
+                "url": "https://www.facebook.com/deguia25",
+                "icon": {
+                    "type": "svg",
+                    "url": "@resources/assets/icons/facebook-stylish.svg"
+                }
+            },
+            "instagram": {
+                "user": "jxmked",
+                "url": "https://www.instagram.com/jxmked",
+                "icon": {
+                    "type": "svg",
+                    "url": "@resources/assets/icons/instagram.svg"
+                }
+            },
+            "buymeacoffee": {
+                "user": "jxmked",
+                "url": "https://www.buymeacoffee.com/jxmked",
+                "icon": {
+                    "type": "svg",
+                    "url": "@resources/assets/icons/buymeacoffee.svg"
+                }
+            },
+            "unsplash": {
+                "user": "jxmked",
+                "url": "https://unsplash.com/@jxmked",
+                "icon": {
+                    "type": "svg",
+                    "url": "@resources/assets/icons/unsplash.svg"
+                }
+            },
+            "academia": {
+                "user": "jxmked",
+                "url": "https://independent.academia.edu/jxmked",
+                "icon": {
+                    "type": "svg",
+                    "url": "@resources/assets/icons/academia.svg"
+                }
+            }
+        }
+    }
+}

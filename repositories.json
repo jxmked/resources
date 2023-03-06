@@ -1,0 +1,645 @@
+{
+    "time": 1678063355.5833614,
+    "data": [
+        {
+            "id": 512442880,
+            "node_id": "R_kgDOHotCAA",
+            "name": "Audio-Normalizer",
+            "html_url": "https://github.com/jxmked/Audio-Normalizer",
+            "description": "Batch audio normalizer. Increase/Decrease volume to its default. ",
+            "languages": {
+                "Python": 5769
+            },
+            "homepage": "",
+            "topics": [
+                "audio",
+                "audio-processing",
+                "eyed3",
+                "ffmpeg",
+                "portfolio-include",
+                "python",
+                "python3"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Audio-Normalizer/zipball/xio"
+        },
+        {
+            "id": 530367524,
+            "node_id": "R_kgDOH5zEJA",
+            "name": "Auto-Min",
+            "html_url": "https://github.com/jxmked/Auto-Min",
+            "description": "Create minified mirror of your JS, CSS, HTML, JSON files. ",
+            "languages": {
+                "TypeScript": 24219,
+                "JavaScript": 135
+            },
+            "homepage": "",
+            "topics": [
+                "cli",
+                "css-minifier",
+                "html-minifier",
+                "js-minifier",
+                "json-minifier",
+                "minifier",
+                "npm",
+                "npm-package",
+                "portfolio-include"
+            ],
+            "stars": 1,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Auto-Min/zipball/xio"
+        },
+        {
+            "id": 541046844,
+            "node_id": "R_kgDOID-4PA",
+            "name": "Browser-Tester",
+            "html_url": "https://github.com/jxmked/Browser-Tester",
+            "description": "A quick browser test for possibilities ",
+            "languages": {
+                "SCSS": 12040,
+                "HTML": 6043,
+                "TypeScript": 3555,
+                "CSS": 1120
+            },
+            "homepage": "https://jxmked.github.io/Browser-Tester/",
+            "topics": [
+                "browser-tester",
+                "modernizr",
+                "portfolio-include"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Browser-Tester/zipball/xio"
+        },
+        {
+            "id": 587098020,
+            "node_id": "R_kgDOIv5npA",
+            "name": "canvas-shaped-background",
+            "html_url": "https://github.com/jxmked/canvas-shaped-background",
+            "description": "Random shape animation in canvas",
+            "languages": {
+                "TypeScript": 19494,
+                "JavaScript": 8017,
+                "CSS": 449,
+                "HTML": 285
+            },
+            "homepage": "https://jxmked.github.io/canvas-shaped-background/",
+            "topics": [
+                "animation",
+                "canvas",
+                "canvas2d",
+                "javascript",
+                "portfolio-include",
+                "typescript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/canvas-shaped-background/zipball/xio"
+        },
+        {
+            "id": 473266554,
+            "node_id": "R_kgDOHDV5eg",
+            "name": "Css-Colors",
+            "html_url": "https://github.com/jxmked/Css-Colors",
+            "description": "A CSS Color Palette Selection ",
+            "languages": {
+                "CSS": 7183
+            },
+            "homepage": "https://jxmked.github.io/Css-Colors/",
+            "topics": [
+                "portfolio-exclude"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Css-Colors/zipball/xio"
+        },
+        {
+            "id": 578740462,
+            "node_id": "R_kgDOIn7g7g",
+            "name": "favorite-cats",
+            "html_url": "https://github.com/jxmked/favorite-cats",
+            "description": "Quick Preview",
+            "languages": {
+                "CSS": 15430,
+                "HTML": 5124,
+                "JavaScript": 3380
+            },
+            "homepage": "https://jxmked.github.io/favorite-cats/",
+            "topics": [],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/favorite-cats/zipball/xio"
+        },
+        {
+            "id": 596608903,
+            "node_id": "R_kgDOI4-Hhw",
+            "name": "Flappybird",
+            "html_url": "https://github.com/jxmked/Flappybird",
+            "description": "Mimicking the old retro game FlappyBird but as a web app ",
+            "languages": {
+                "TypeScript": 115104,
+                "JavaScript": 12133,
+                "SCSS": 2453,
+                "HTML": 377
+            },
+            "homepage": "https://jxmked.github.io/Flappybird/",
+            "topics": [
+                "clone",
+                "game",
+                "portfolio-include",
+                "retro-game",
+                "typescript",
+                "webpack"
+            ],
+            "stars": 4,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Flappybird/zipball/xio"
+        },
+        {
+            "id": 593259859,
+            "node_id": "R_kgDOI1xtUw",
+            "name": "FlappyLearning",
+            "html_url": "https://github.com/jxmked/FlappyLearning",
+            "description": "Recreate of xviniette flappylearning into TypeScript with implementation of her Machine Learning",
+            "languages": {
+                "TypeScript": 26044,
+                "JavaScript": 6212,
+                "SCSS": 6202,
+                "HTML": 3563
+            },
+            "homepage": "https://jxmked.github.io/FlappyLearning/",
+            "topics": [
+                "2d-game",
+                "canvas-game",
+                "flappybird",
+                "machine-learning",
+                "portfolio-include"
+            ],
+            "stars": 1,
+            "forks": 0,
+            "default_branch": "master",
+            "download_link": "https://github.com/jxmked/FlappyLearning/zipball/master"
+        },
+        {
+            "id": 597282462,
+            "node_id": "R_kgDOI5nOng",
+            "name": "ga4-webpack-plugin",
+            "html_url": "https://github.com/jxmked/ga4-webpack-plugin",
+            "description": "Injecting Google snippet into HTML for Analytics",
+            "languages": {
+                "JavaScript": 1958
+            },
+            "homepage": "https://www.npmjs.com/package/ga4-webpack-plugin",
+            "topics": [
+                "ga4",
+                "gtag",
+                "portfolio-include",
+                "webpack-plugin"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/ga4-webpack-plugin/zipball/xio"
+        },
+        {
+            "id": 466197944,
+            "node_id": "R_kgDOG8mduA",
+            "name": "jxmked",
+            "html_url": "https://github.com/jxmked/jxmked",
+            "description": "Hope you'll like some of my projects and scripts that I created and/or develop to boost my productivity and useful as you wish. \ud83e\udd26\u200d\u2642\ufe0f\ud83d\ude43",
+            "languages": {
+                "TypeScript": 36006,
+                "SCSS": 35954,
+                "HTML": 12699,
+                "CSS": 1120
+            },
+            "homepage": "https://jxmked.github.io/jxmked/",
+            "topics": [],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/jxmked/zipball/xio"
+        },
+        {
+            "id": 574424822,
+            "node_id": "R_kgDOIj0G9g",
+            "name": "mariadb-sample",
+            "html_url": "https://github.com/jxmked/mariadb-sample",
+            "description": "Single SQL Database Synchronization Across Web and Command Line Interfaces",
+            "languages": {
+                "Python": 54592,
+                "TypeScript": 32977,
+                "PHP": 32296,
+                "CSS": 15430,
+                "SCSS": 14559,
+                "JavaScript": 8573,
+                "Shell": 2526,
+                "HTML": 231
+            },
+            "homepage": "https://jxmked.github.io/mariadb-sample/",
+            "topics": [
+                "demo",
+                "mariadb",
+                "multi-interface",
+                "php-api",
+                "portfolio-include",
+                "synchronization"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/mariadb-sample/zipball/xio"
+        },
+        {
+            "id": 585544709,
+            "node_id": "R_kgDOIua0BQ",
+            "name": "MIND-project",
+            "html_url": "https://github.com/jxmked/MIND-project",
+            "description": null,
+            "languages": {
+                "JavaScript": 8772,
+                "Shell": 1525,
+                "Dockerfile": 1166,
+                "Procfile": 152
+            },
+            "homepage": null,
+            "topics": [],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "main",
+            "download_link": "https://github.com/jxmked/MIND-project/zipball/main"
+        },
+        {
+            "id": 589400358,
+            "node_id": "R_kgDOIyGJJg",
+            "name": "neuroevolution-typescript",
+            "html_url": "https://github.com/jxmked/neuroevolution-typescript",
+            "description": "Neuroevolution library in Typescript",
+            "languages": {
+                "TypeScript": 33806,
+                "JavaScript": 2342
+            },
+            "homepage": "https://www.npmjs.com/package/ts-neuroevolution",
+            "topics": [
+                "ai",
+                "machine-learning",
+                "neuroevolution",
+                "npm-package",
+                "typescript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "master",
+            "download_link": "https://github.com/jxmked/neuroevolution-typescript/zipball/master"
+        },
+        {
+            "id": 532276667,
+            "node_id": "R_kgDOH7nluw",
+            "name": "NPM-Environment-Variables",
+            "html_url": "https://github.com/jxmked/NPM-Environment-Variables",
+            "description": "Use `process` to set and get value from different file during runtime. ",
+            "languages": {
+                "TypeScript": 1738,
+                "JavaScript": 792
+            },
+            "homepage": "https://www.npmjs.com/package/env-res",
+            "topics": [
+                "env",
+                "env-variables",
+                "map",
+                "map-object",
+                "runtime-variables"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/NPM-Environment-Variables/zipball/xio"
+        },
+        {
+            "id": 435137278,
+            "node_id": "R_kgDOGe-q_g",
+            "name": "Old-Creation",
+            "html_url": "https://github.com/jxmked/Old-Creation",
+            "description": "This is my old creation. ",
+            "languages": {
+                "HTML": 318349,
+                "JavaScript": 91806
+            },
+            "homepage": "https://jxmked.github.io/Old-Creation/",
+            "topics": [],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Old-Creation/zipball/xio"
+        },
+        {
+            "id": 471762218,
+            "node_id": "R_kgDOHB6FKg",
+            "name": "PageNotFound",
+            "html_url": "https://github.com/jxmked/PageNotFound",
+            "description": "Error 404 - Page not Found Page",
+            "languages": {
+                "HTML": 11586
+            },
+            "homepage": "https://jxmked.github.io/PageNotFound/",
+            "topics": [
+                "portfolio-exclude"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/PageNotFound/zipball/xio"
+        },
+        {
+            "id": 535238696,
+            "node_id": "R_kgDOH-cYKA",
+            "name": "password-generator",
+            "html_url": "https://github.com/jxmked/password-generator",
+            "description": "Just a thing.... :)",
+            "languages": {
+                "TypeScript": 8848,
+                "SCSS": 3922,
+                "JavaScript": 2808,
+                "HTML": 1322,
+                "CSS": 460,
+                "Shell": 55
+            },
+            "homepage": "https://pldtwifi.netlify.app/",
+            "topics": [],
+            "stars": 1,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/password-generator/zipball/xio"
+        },
+        {
+            "id": 434159694,
+            "node_id": "R_kgDOGeDATg",
+            "name": "Python-Language",
+            "html_url": "https://github.com/jxmked/Python-Language",
+            "description": "I create some scripts to help my development  from multiple projects",
+            "languages": {
+                "Python": 13416
+            },
+            "homepage": "",
+            "topics": [
+                "portfolio-exclude"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Python-Language/zipball/xio"
+        },
+        {
+            "id": 484481865,
+            "node_id": "R_kgDOHOCbSQ",
+            "name": "Random-Web-Ideas",
+            "html_url": "https://github.com/jxmked/Random-Web-Ideas",
+            "description": "Random design, functions and etc. that I created for web UI",
+            "languages": {
+                "TypeScript": 31281,
+                "CSS": 16185,
+                "SCSS": 14961,
+                "HTML": 11987,
+                "JavaScript": 10471
+            },
+            "homepage": "https://jxmked.github.io/Random-Web-Ideas/",
+            "topics": [
+                "buttons",
+                "css",
+                "design",
+                "input",
+                "js",
+                "scss",
+                "textarea",
+                "toggles",
+                "typescript"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Random-Web-Ideas/zipball/xio"
+        },
+        {
+            "id": 465980607,
+            "node_id": "R_kgDOG8ZMvw",
+            "name": "Repo_Clone",
+            "html_url": "https://github.com/jxmked/Repo_Clone",
+            "description": "Clone Github repository and automatically place them in your desired location using Termux.",
+            "languages": {
+                "Shell": 10712
+            },
+            "homepage": "https://jxmked.github.io/Repo_Clone",
+            "topics": [
+                "git-cli",
+                "git-clone",
+                "portfolio-include",
+                "shell",
+                "termux"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Repo_Clone/zipball/xio"
+        },
+        {
+            "id": 470213358,
+            "node_id": "R_kgDOHAbi7g",
+            "name": "resources",
+            "html_url": "https://github.com/jxmked/resources",
+            "description": "My Public Information From Different Resources. Automatically updating.",
+            "languages": {
+                "CSS": 5162
+            },
+            "homepage": "",
+            "topics": [],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/resources/zipball/xio"
+        },
+        {
+            "id": 418553937,
+            "node_id": "R_kgDOGPKgUQ",
+            "name": "Script-Thing",
+            "html_url": "https://github.com/jxmked/Script-Thing",
+            "description": "Random scripts that I created that might be useful in some part of your life \ud83d\ude42 ",
+            "languages": {
+                "Python": 47765,
+                "C++": 41775,
+                "Java": 36362,
+                "C": 29944,
+                "Shell": 12399
+            },
+            "homepage": "",
+            "topics": [
+                "portfolio-include",
+                "random-ideas",
+                "scripts"
+            ],
+            "stars": 1,
+            "forks": 2,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Script-Thing/zipball/xio"
+        },
+        {
+            "id": 546165242,
+            "node_id": "R_kgDOII3R-g",
+            "name": "Single_Sheet-Android_App",
+            "html_url": "https://github.com/jxmked/Single_Sheet-Android_App",
+            "description": "My first android notepad app",
+            "languages": {
+                "Java": 7063
+            },
+            "homepage": "",
+            "topics": [
+                "android-aide",
+                "apk",
+                "notepad",
+                "portfolio-include"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Single_Sheet-Android_App/zipball/xio"
+        },
+        {
+            "id": 541403289,
+            "node_id": "R_kgDOIEUomQ",
+            "name": "StaticWeb2AndroidApp",
+            "html_url": "https://github.com/jxmked/StaticWeb2AndroidApp",
+            "description": "Static Web Page to Trusted Web Activity ",
+            "languages": {
+                "CSS": 6282,
+                "HTML": 5143,
+                "Java": 2628
+            },
+            "homepage": "",
+            "topics": [
+                "portfolio-include",
+                "pwa",
+                "twa",
+                "web-to-apk"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/StaticWeb2AndroidApp/zipball/xio"
+        },
+        {
+            "id": 471285475,
+            "node_id": "R_kgDOHBc-4w",
+            "name": "Tic-Tac-Toe-incomplete",
+            "html_url": "https://github.com/jxmked/Tic-Tac-Toe-incomplete",
+            "description": "My incomplete web Tic-Tac-Toe app but funtional.",
+            "languages": {
+                "JavaScript": 9657,
+                "HTML": 5252
+            },
+            "homepage": "https://jxmked.github.io/Tic-Tac-Toe-incomplete/",
+            "topics": [
+                "ai",
+                "css",
+                "game",
+                "html",
+                "javascript",
+                "portfolio-include",
+                "tic-tac-toe"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Tic-Tac-Toe-incomplete/zipball/xio"
+        },
+        {
+            "id": 506651806,
+            "node_id": "R_kgDOHjLkng",
+            "name": "Time-lapse-Video-Creator",
+            "html_url": "https://github.com/jxmked/Time-lapse-Video-Creator",
+            "description": "Automate Your Raw Coding Video and Music then let the Your Device to Compile Them in a single gapless video. ",
+            "languages": {
+                "Python": 28782
+            },
+            "homepage": "",
+            "topics": [
+                "automation",
+                "compile-video",
+                "ffmpeg",
+                "portfolio-include",
+                "python3",
+                "termux"
+            ],
+            "stars": 2,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Time-lapse-Video-Creator/zipball/xio"
+        },
+        {
+            "id": 595664899,
+            "node_id": "R_kgDOI4EgAw",
+            "name": "ts-neuroevolution",
+            "html_url": "https://github.com/jxmked/ts-neuroevolution",
+            "description": "Another version of Neuroevolution-Typescript ",
+            "languages": {
+                "TypeScript": 33806,
+                "JavaScript": 2342
+            },
+            "homepage": "https://www.npmjs.com/package/ts-neuroevolution",
+            "topics": [
+                "ai",
+                "machine-learning",
+                "neuroevolution",
+                "portfolio-include"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/ts-neuroevolution/zipball/xio"
+        },
+        {
+            "id": 488380369,
+            "node_id": "R_kgDOHRwX0Q",
+            "name": "xCreation",
+            "html_url": "https://github.com/jxmked/xCreation",
+            "description": "A dedication page for report and issue for a while.",
+            "languages": {},
+            "homepage": "https://xio.netlify.app/",
+            "topics": [
+                "portfolio-exclude"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/xCreation/zipball/xio"
+        },
+        {
+            "id": 557797622,
+            "node_id": "R_kgDOIT9Q9g",
+            "name": "Zipball-Github-Repositories",
+            "html_url": "https://github.com/jxmked/Zipball-Github-Repositories",
+            "description": "Download all available repositories as zipball",
+            "languages": {
+                "Python": 2412
+            },
+            "homepage": "",
+            "topics": [
+                "github",
+                "portfolio-include",
+                "python",
+                "repository",
+                "zipball"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/Zipball-Github-Repositories/zipball/xio"
+        }
+    ]
+}
