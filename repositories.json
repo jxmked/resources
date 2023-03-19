@@ -1,5 +1,5 @@
 {
-    "time": 1679099947.2540486,
+    "time": 1679186636.1822886,
     "data": [
         {
             "id": 512442880,
@@ -209,6 +209,28 @@
             "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/ga4-webpack-plugin/zipball/xio"
+        },
+        {
+            "id": 612925319,
+            "node_id": "R_kgDOJIh_hw",
+            "name": "github-stats-card",
+            "html_url": "https://github.com/jxmked/github-stats-card",
+            "description": "Create awesome Github stat card ",
+            "languages": {
+                "TypeScript": 30540
+            },
+            "homepage": "",
+            "topics": [
+                "card",
+                "gh-stats-card",
+                "portfolio-include",
+                "sci-fi",
+                "statgarten"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/github-stats-card/zipball/xio"
         },
         {
             "id": 466197944,
