@@ -1,5 +1,5 @@
 {
-    "time": 1681000693.0896857,
+    "time": 1681087018.5760922,
     "data": [
         {
             "id": 512442880,
@@ -250,6 +250,20 @@
             "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/jxmked/zipball/xio"
+        },
+        {
+            "id": 625435274,
+            "node_id": "R_kgDOJUdiig",
+            "name": "leetcode",
+            "html_url": "https://github.com/jxmked/leetcode",
+            "description": "LeetCode Problems' Solutions ",
+            "languages": {},
+            "homepage": "",
+            "topics": [],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "master",
+            "download_link": "https://github.com/jxmked/leetcode/zipball/master"
         },
         {
             "id": 574424822,
