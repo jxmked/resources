@@ -1,5 +1,5 @@
 {
-    "time": 1685839777.3789728,
+    "time": 1685925788.1399567,
     "data": [
         {
             "id": 512442880,
@@ -527,7 +527,7 @@
             "languages": {
                 "Python": 52137,
                 "C++": 41775,
-                "Java": 38331,
+                "Java": 39482,
                 "C": 29944,
                 "Shell": 12399
             },
@@ -549,7 +549,7 @@
             "html_url": "https://github.com/jxmked/Single_Sheet-Android_App",
             "description": "My first android notepad app",
             "languages": {
-                "Java": 7063
+                "Java": 6648
             },
             "homepage": "",
             "topics": [
@@ -570,9 +570,10 @@
             "html_url": "https://github.com/jxmked/StaticWeb2AndroidApp",
             "description": "Static Web Page to Trusted Web Activity ",
             "languages": {
-                "CSS": 6282,
-                "HTML": 5143,
-                "Java": 2628
+                "JavaScript": 159424,
+                "CSS": 5970,
+                "HTML": 4972,
+                "Java": 2483
             },
             "homepage": "",
             "topics": [
