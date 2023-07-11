@@ -1,5 +1,5 @@
 {
-    "time": 1688950144.3494434,
+    "time": 1689036157.4907262,
     "data": [
         {
             "id": 512442880,
@@ -526,7 +526,7 @@
             "description": "Random scripts that I created that might be useful in some part of your life \ud83d\ude42 ",
             "languages": {
                 "Python": 52137,
-                "Java": 46067,
+                "Java": 46158,
                 "C++": 41775,
                 "C": 29944,
                 "Shell": 12399
@@ -537,7 +537,7 @@
                 "random-ideas",
                 "scripts"
             ],
-            "stars": 1,
+            "stars": 2,
             "forks": 2,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Script-Thing/zipball/xio"
