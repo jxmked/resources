@@ -1,5 +1,5 @@
 {
-    "time": 1689122960.4225252,
+    "time": 1689209357.8019085,
     "data": [
         {
             "id": 512442880,
@@ -525,8 +525,8 @@
             "html_url": "https://github.com/jxmked/Script-Thing",
             "description": "Random scripts that I created that might be useful in some part of your life \ud83d\ude42 ",
             "languages": {
-                "Python": 52137,
-                "Java": 46158,
+                "Python": 53183,
+                "Java": 46354,
                 "C++": 41775,
                 "C": 29944,
                 "Shell": 12399
