@@ -1,5 +1,5 @@
 {
-    "time": 1689642397.9249017,
+    "time": 1689729261.3849359,
     "data": [
         {
             "id": 512442880,
@@ -537,7 +537,7 @@
                 "random-ideas",
                 "scripts"
             ],
-            "stars": 2,
+            "stars": 1,
             "forks": 2,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Script-Thing/zipball/xio"
