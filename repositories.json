@@ -1,5 +1,5 @@
 {
-    "time": 1694306139.4329264,
+    "time": 1694392442.154592,
     "data": [
         {
             "id": 512442880,
@@ -475,11 +475,11 @@
             "html_url": "https://github.com/jxmked/Random-Web-Ideas",
             "description": "Random design, functions and etc. that I created for web UI",
             "languages": {
-                "TypeScript": 31281,
-                "CSS": 16185,
-                "SCSS": 14961,
-                "HTML": 11987,
-                "JavaScript": 10471
+                "TypeScript": 28388,
+                "CSS": 16175,
+                "JavaScript": 16076,
+                "HTML": 12840,
+                "SCSS": 11893
             },
             "homepage": "https://jxmked.github.io/Random-Web-Ideas/",
             "topics": [
@@ -637,7 +637,7 @@
             "html_url": "https://github.com/jxmked/Time-lapse-Video-Creator",
             "description": "Automate Your Raw Coding Video and Music then let the Your Device to Compile Them in a single gapless video. ",
             "languages": {
-                "Python": 28782
+                "Python": 28934
             },
             "homepage": "",
             "topics": [
