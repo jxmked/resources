@@ -1,5 +1,5 @@
 {
-    "time": 1696638810.3033001,
+    "time": 1696725395.3577602,
     "data": [
         {
             "id": 512442880,
@@ -643,7 +643,7 @@
             "html_url": "https://github.com/jxmked/ts-neuroevolution",
             "description": "Another version of Neuroevolution-Typescript ",
             "languages": {
-                "TypeScript": 33806,
+                "TypeScript": 33986,
                 "JavaScript": 2342
             },
             "homepage": "https://www.npmjs.com/package/ts-neuroevolution",
