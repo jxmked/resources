@@ -1,5 +1,5 @@
 {
-    "time": 1697243582.6367636,
+    "time": 1697330220.8677588,
     "data": [
         {
             "id": 512442880,
@@ -144,8 +144,8 @@
             "html_url": "https://github.com/jxmked/Flappybird",
             "description": "Mimicking the old retro game FlappyBird but as a web app ",
             "languages": {
-                "TypeScript": 115088,
-                "JavaScript": 12133,
+                "TypeScript": 118076,
+                "JavaScript": 12132,
                 "SCSS": 2453,
                 "HTML": 377
             },
