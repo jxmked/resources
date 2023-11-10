@@ -1,5 +1,5 @@
 {
-    "time": 1699490084.888808,
+    "time": 1699576486.328247,
     "data": [
         {
             "id": 512442880,
@@ -118,24 +118,6 @@
             "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Css-Colors/zipball/xio"
-        },
-        {
-            "id": 578740462,
-            "node_id": "R_kgDOIn7g7g",
-            "name": "favorite-cats",
-            "html_url": "https://github.com/jxmked/favorite-cats",
-            "description": "Quick Preview",
-            "languages": {
-                "CSS": 15430,
-                "HTML": 5124,
-                "JavaScript": 3380
-            },
-            "homepage": "https://jxmked.github.io/favorite-cats/",
-            "topics": [],
-            "stars": 0,
-            "forks": 0,
-            "default_branch": "xio",
-            "download_link": "https://github.com/jxmked/favorite-cats/zipball/xio"
         },
         {
             "id": 596608903,
