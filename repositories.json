@@ -1,5 +1,5 @@
 {
-    "time": 1699662870.6803432,
+    "time": 1699749462.6099994,
     "data": [
         {
             "id": 512442880,
@@ -663,11 +663,11 @@
             "html_url": "https://github.com/jxmked/webpack-base-template",
             "description": "Just my personal favorite Webpack config template. ",
             "languages": {
-                "HTML": 92629,
-                "JavaScript": 11677,
+                "HTML": 90901,
+                "JavaScript": 11910,
                 "SCSS": 8529,
                 "CSS": 6219,
-                "TypeScript": 237
+                "TypeScript": 747
             },
             "homepage": "https://jxmked.github.io/webpack-base-template/",
             "topics": [
