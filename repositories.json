@@ -1,5 +1,5 @@
 {
-    "time": 1699835770.609259,
+    "time": 1699922123.4161406,
     "data": [
         {
             "id": 512442880,
@@ -689,9 +689,9 @@
             "description": "Convert from Alphabet to Periodic Symbol from Table of Elements. ",
             "languages": {
                 "HTML": 92228,
-                "TypeScript": 19274,
+                "TypeScript": 20068,
                 "SCSS": 14475,
-                "JavaScript": 11042,
+                "JavaScript": 11378,
                 "CSS": 6219
             },
             "homepage": "https://jxmked.github.io/words-to-periodic-elements/",
