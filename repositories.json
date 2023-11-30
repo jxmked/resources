@@ -1,5 +1,5 @@
 {
-    "time": 1700527009.144334,
+    "time": 1701362695.671721,
     "data": [
         {
             "id": 512442880,
@@ -8,7 +8,7 @@
             "html_url": "https://github.com/jxmked/Audio-Normalizer",
             "description": "Batch audio normalizer. Increase/Decrease volume to its default. ",
             "languages": {
-                "Python": 5769
+                "Python": 5827
             },
             "homepage": "",
             "topics": [
@@ -82,8 +82,8 @@
             "html_url": "https://github.com/jxmked/canvas-shaped-background",
             "description": "Random shape animation in canvas",
             "languages": {
-                "TypeScript": 19129,
-                "JavaScript": 9969,
+                "TypeScript": 19732,
+                "JavaScript": 10249,
                 "CSS": 510,
                 "HTML": 312
             },
@@ -126,8 +126,8 @@
             "html_url": "https://github.com/jxmked/Flappybird",
             "description": "Mimicking the old retro game FlappyBird but as a web app ",
             "languages": {
-                "TypeScript": 117216,
-                "JavaScript": 12132,
+                "TypeScript": 117352,
+                "JavaScript": 12310,
                 "SCSS": 2453,
                 "HTML": 377
             },
@@ -178,7 +178,7 @@
             "html_url": "https://github.com/jxmked/ga4-webpack-plugin",
             "description": "Injecting Google snippet into HTML for Analytics",
             "languages": {
-                "JavaScript": 1958
+                "JavaScript": 2462
             },
             "homepage": "https://www.npmjs.com/package/ga4-webpack-plugin",
             "topics": [
@@ -187,7 +187,7 @@
                 "portfolio-include",
                 "webpack-plugin"
             ],
-            "stars": 0,
+            "stars": 1,
             "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/ga4-webpack-plugin/zipball/xio"
@@ -680,6 +680,30 @@
             "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/webpack-base-template/zipball/xio"
+        },
+        {
+            "id": 724517760,
+            "node_id": "R_kgDOKy9DgA",
+            "name": "webpack-multipage-base-template",
+            "html_url": "https://github.com/jxmked/webpack-multipage-base-template",
+            "description": "Multipage webpack rendering",
+            "languages": {
+                "HTML": 92622,
+                "JavaScript": 13120,
+                "SCSS": 10005,
+                "CSS": 6219,
+                "TypeScript": 2124
+            },
+            "homepage": "https://jxmked.github.io/webpack-multipage-base-template/",
+            "topics": [
+                "multipage-static-websites",
+                "typescript",
+                "webpack"
+            ],
+            "stars": 0,
+            "forks": 0,
+            "default_branch": "xio",
+            "download_link": "https://github.com/jxmked/webpack-multipage-base-template/zipball/xio"
         },
         {
             "id": 488380369,
