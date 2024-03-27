@@ -1,5 +1,5 @@
 {
-    "time": 1711413278.4134989,
+    "time": 1711499680.2202988,
     "data": [
         {
             "id": 767526207,
@@ -597,8 +597,8 @@
                 "twa",
                 "web-to-apk"
             ],
-            "stars": 0,
-            "forks": 0,
+            "stars": 1,
+            "forks": 1,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/StaticWeb2AndroidApp/zipball/xio"
         },
