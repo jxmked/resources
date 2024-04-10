@@ -1,5 +1,5 @@
 {
-    "time": 1712622943.1469693,
+    "time": 1712709319.4121013,
     "data": [
         {
             "id": 774933958,
@@ -126,11 +126,11 @@
             "html_url": "https://github.com/jxmked/calcu",
             "description": "Some website that calculate things",
             "languages": {
-                "HTML": 90893,
+                "HTML": 90730,
                 "JavaScript": 13051,
                 "SCSS": 10005,
                 "CSS": 6219,
-                "TypeScript": 2151
+                "TypeScript": 2322
             },
             "homepage": null,
             "topics": [],
