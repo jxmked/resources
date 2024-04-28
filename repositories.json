@@ -1,5 +1,5 @@
 {
-    "time": 1714178151.5299294,
+    "time": 1714264761.43829,
     "data": [
         {
             "id": 774933958,
@@ -8,7 +8,7 @@
             "html_url": "https://github.com/jxmked/arduino-greenhouse-temp-normalizer",
             "description": "An Arduino program that will automatically regulate the temperature inside of a greenhouse using sensors and fan. ",
             "languages": {
-                "C++": 27222,
+                "C++": 27221,
                 "C": 3304
             },
             "homepage": "",
