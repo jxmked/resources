@@ -1,5 +1,5 @@
 {
-    "time": 1715301398.987247,
+    "time": 1715387767.9670396,
     "data": [
         {
             "id": 774933958,
@@ -127,8 +127,8 @@
             "description": "Some website that calculate things",
             "languages": {
                 "HTML": 91084,
+                "TypeScript": 13657,
                 "JavaScript": 13157,
-                "TypeScript": 12884,
                 "SCSS": 10443,
                 "CSS": 6219
             },
