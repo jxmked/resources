@@ -1,5 +1,5 @@
 {
-    "time": 1715560696.6685765,
+    "time": 1715647012.707086,
     "data": [
         {
             "id": 774933958,
@@ -52,8 +52,8 @@
             "html_url": "https://github.com/jxmked/arduino-soil-ph-readings",
             "description": null,
             "languages": {
-                "C++": 5451,
-                "C": 401
+                "C++": 7307,
+                "C": 641
             },
             "homepage": null,
             "topics": [],
