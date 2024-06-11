@@ -1,5 +1,5 @@
 {
-    "time": 1717980006.7199852,
+    "time": 1718066318.0938864,
     "data": [
         {
             "id": 774933958,
@@ -281,7 +281,7 @@
             "html_url": "https://github.com/jxmked/github-stats-card",
             "description": "Create awesome Github stat card ",
             "languages": {
-                "TypeScript": 30540
+                "TypeScript": 30510
             },
             "homepage": "https://github-stats-card-lac.vercel.app",
             "topics": [
