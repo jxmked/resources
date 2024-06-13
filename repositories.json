@@ -1,5 +1,5 @@
 {
-    "time": 1718152733.0277166,
+    "time": 1718239113.8609748,
     "data": [
         {
             "id": 774933958,
@@ -283,7 +283,7 @@
             "languages": {
                 "TypeScript": 32371
             },
-            "homepage": "https://github-stats-card-lac.vercel.app",
+            "homepage": "",
             "topics": [
                 "card",
                 "gh-stats-card",
