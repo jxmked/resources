@@ -1,5 +1,5 @@
 {
-    "time": 1718239113.8609748,
+    "time": 1718325511.5858948,
     "data": [
         {
             "id": 774933958,
@@ -279,19 +279,17 @@
             "node_id": "R_kgDOJIh_hw",
             "name": "github-stats-card",
             "html_url": "https://github.com/jxmked/github-stats-card",
-            "description": "Create awesome Github stat card ",
+            "description": "Create awesome Github Readme Stats Card",
             "languages": {
-                "TypeScript": 32371
+                "TypeScript": 32381
             },
-            "homepage": "",
+            "homepage": "https://gh-stats-card.vercel.app",
             "topics": [
                 "card",
                 "gh-stats-card",
-                "graph",
+                "github-readme-stats",
                 "portfolio-include",
-                "sci-fi",
-                "statgarten",
-                "statistics"
+                "sci-fi"
             ],
             "stars": 8,
             "forks": 0,
