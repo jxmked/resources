@@ -1,5 +1,5 @@
 {
-    "time": 1719708176.76077,
+    "time": 1719794671.632402,
     "data": [
         {
             "id": 774933958,
@@ -260,7 +260,7 @@
             "html_url": "https://github.com/jxmked/ga4-webpack-plugin",
             "description": "Injecting Google snippet into HTML for Analytics",
             "languages": {
-                "JavaScript": 2425
+                "JavaScript": 2842
             },
             "homepage": "https://www.npmjs.com/package/ga4-webpack-plugin",
             "topics": [
