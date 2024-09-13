@@ -1,5 +1,5 @@
 {
-    "time": 1726101823.081479,
+    "time": 1726188226.6955361,
     "data": [
         {
             "id": 774933958,
@@ -224,7 +224,7 @@
                 "webpack"
             ],
             "stars": 5,
-            "forks": 2,
+            "forks": 3,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Flappybird/zipball/xio"
         },
@@ -551,7 +551,7 @@
             "description": "Clone Github repository and automatically place them in your desired location using Termux.",
             "languages": {
                 "Shell": 10712,
-                "Rust": 8178
+                "Rust": 10193
             },
             "homepage": "https://jxmked.github.io/Repo_Clone",
             "topics": [
