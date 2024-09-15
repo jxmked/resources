@@ -1,5 +1,5 @@
 {
-    "time": 1726274596.1786668,
+    "time": 1726361433.560108,
     "data": [
         {
             "id": 774933958,
@@ -550,8 +550,8 @@
             "html_url": "https://github.com/jxmked/Repo_Clone",
             "description": "Clone Github repository and automatically place them in your desired location using Termux.",
             "languages": {
-                "Shell": 10712,
-                "Rust": 10193
+                "Rust": 10715,
+                "Shell": 10712
             },
             "homepage": "https://jxmked.github.io/Repo_Clone",
             "topics": [
