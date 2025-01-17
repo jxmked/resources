@@ -1,5 +1,5 @@
 {
-    "time": 1736988338.0018744,
+    "time": 1737074731.9496078,
     "data": [
         {
             "id": 774933958,
@@ -225,8 +225,8 @@
             "html_url": "https://github.com/jxmked/Flappybird",
             "description": "Mimicking the old retro game FlappyBird but as a web app ",
             "languages": {
-                "TypeScript": 118088,
-                "JavaScript": 10268,
+                "TypeScript": 117848,
+                "JavaScript": 10266,
                 "SCSS": 2453,
                 "HTML": 377
             },
@@ -568,8 +568,8 @@
             "html_url": "https://github.com/jxmked/Repo_Clone",
             "description": "Clone Github repository and automatically place them in your desired location using Termux.",
             "languages": {
-                "Rust": 32319,
-                "Shell": 10712
+                "Rust": 34351,
+                "Shell": 10782
             },
             "homepage": "https://jxmked.github.io/Repo_Clone",
             "topics": [
