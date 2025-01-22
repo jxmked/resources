@@ -1,5 +1,5 @@
 {
-    "time": 1737420326.109367,
+    "time": 1737506831.2755976,
     "data": [
         {
             "id": 774933958,
@@ -153,26 +153,6 @@
             "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/bsu-branches-page-demo/zipball/xio"
-        },
-        {
-            "id": 783310594,
-            "node_id": "R_kgDOLrBfAg",
-            "name": "calcu",
-            "html_url": "https://github.com/jxmked/calcu",
-            "description": "Some website that calculate things",
-            "languages": {
-                "HTML": 91084,
-                "TypeScript": 13657,
-                "JavaScript": 13157,
-                "SCSS": 10443,
-                "CSS": 6219
-            },
-            "homepage": "https://jxmked.github.io/calcu/",
-            "topics": [],
-            "stars": 0,
-            "forks": 0,
-            "default_branch": "xio",
-            "download_link": "https://github.com/jxmked/calcu/zipball/xio"
         },
         {
             "id": 587098020,
