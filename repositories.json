@@ -1,5 +1,5 @@
 {
-    "time": 1740444539.7388904,
+    "time": 1740530919.5101593,
     "data": [
         {
             "id": 774933958,
@@ -109,7 +109,7 @@
                 "portfolio-include"
             ],
             "stars": 1,
-            "forks": 1,
+            "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Auto-Min/zipball/xio"
         },
