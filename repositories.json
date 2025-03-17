@@ -1,5 +1,5 @@
 {
-    "time": 1742086480.8064883,
+    "time": 1742172761.3086574,
     "data": [
         {
             "id": 774933958,
@@ -52,8 +52,8 @@
             "html_url": "https://github.com/jxmked/arduino-smart-lamp",
             "description": null,
             "languages": {
-                "C++": 5056,
-                "C": 246
+                "C++": 13084,
+                "C": 831
             },
             "homepage": null,
             "topics": [],
