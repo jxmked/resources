@@ -1,5 +1,5 @@
 {
-    "time": 1742777590.2892327,
+    "time": 1742863933.448595,
     "data": [
         {
             "id": 945512554,
@@ -164,8 +164,8 @@
             "description": "A quick browser test for possibilities ",
             "languages": {
                 "SCSS": 12040,
-                "HTML": 6043,
-                "TypeScript": 3555,
+                "HTML": 4358,
+                "TypeScript": 3091,
                 "CSS": 1120
             },
             "homepage": "https://jxmked.github.io/Browser-Tester/",
