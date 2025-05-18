@@ -1,5 +1,5 @@
 {
-    "time": 1747443252.3272185,
+    "time": 1747529974.6437957,
     "data": [
         {
             "id": 945512554,
@@ -562,7 +562,7 @@
             "description": "Random design, functions and etc. that I created for web UI",
             "languages": {
                 "TypeScript": 28388,
-                "HTML": 27190,
+                "HTML": 27981,
                 "JavaScript": 16745,
                 "CSS": 16175,
                 "SCSS": 11893
