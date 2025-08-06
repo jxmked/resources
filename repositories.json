@@ -1,5 +1,5 @@
 {
-    "time": 1754355789.4699326,
+    "time": 1754442123.1147816,
     "data": [
         {
             "id": 945512554,
@@ -264,7 +264,7 @@
                 "typescript",
                 "webpack"
             ],
-            "stars": 10,
+            "stars": 9,
             "forks": 9,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Flappybird/zipball/xio"
