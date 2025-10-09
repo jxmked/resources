@@ -1,5 +1,5 @@
 {
-    "time": 1759107220.1557508,
+    "time": 1760052847.070943,
     "data": [
         {
             "id": 945512554,
@@ -310,7 +310,7 @@
                 "portfolio-include",
                 "webpack-plugin"
             ],
-            "stars": 2,
+            "stars": 1,
             "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/ga4-webpack-plugin/zipball/xio"
