@@ -1,5 +1,5 @@
 {
-    "time": 1766883982.911932,
+    "time": 1766970270.4312038,
     "data": [
         {
             "id": 945512554,
@@ -56,7 +56,7 @@
             "html_url": "https://github.com/jxmked/arduino-rc-wheelchair-esp32",
             "description": "Wheelchair that can be control using a wireless remote with accelerometer.",
             "languages": {
-                "C++": 27038,
+                "C++": 29045,
                 "C": 2730
             },
             "homepage": "",
@@ -79,8 +79,8 @@
             "html_url": "https://github.com/jxmked/arduino-rc-wheelchair-esp32-glove",
             "description": "This repository is binded with arduino-rc-wheelchair-esp32. This is the client (Gloves) where wheelchair can be control",
             "languages": {
-                "C++": 6279,
-                "C": 369
+                "C++": 6187,
+                "C": 325
             },
             "homepage": "",
             "topics": [
