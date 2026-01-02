@@ -1,5 +1,5 @@
 {
-    "time": 1767229585.4123526,
+    "time": 1767315649.016063,
     "data": [
         {
             "id": 945512554,
@@ -687,7 +687,7 @@
                 "scripts"
             ],
             "stars": 2,
-            "forks": 3,
+            "forks": 4,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Script-Thing/zipball/xio"
         },
@@ -868,7 +868,7 @@
             "description": "Multipage webpack rendering",
             "languages": {
                 "HTML": 92622,
-                "JavaScript": 13224,
+                "JavaScript": 14079,
                 "SCSS": 10005,
                 "CSS": 6219,
                 "TypeScript": 2124
