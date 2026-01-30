@@ -1,5 +1,5 @@
 {
-    "time": 1769649051.1454475,
+    "time": 1769735412.0850487,
     "data": [
         {
             "id": 945512554,
@@ -366,7 +366,7 @@
             "html_url": "https://github.com/jxmked/github-stats-card",
             "description": "Create awesome Github Readme Stats Card",
             "languages": {
-                "TypeScript": 32381
+                "TypeScript": 32507
             },
             "homepage": "https://gh-stats-card.vercel.app",
             "topics": [
