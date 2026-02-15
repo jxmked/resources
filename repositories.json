@@ -1,5 +1,5 @@
 {
-    "time": 1771031494.981147,
+    "time": 1771118305.0673292,
     "data": [
         {
             "id": 945512554,
@@ -156,7 +156,7 @@
             "html_url": "https://github.com/jxmked/Audio-Normalizer",
             "description": "Batch audio normalizer. Increase/Decrease volume to its default. ",
             "languages": {
-                "Python": 5827
+                "Python": 5770
             },
             "homepage": "",
             "topics": [
@@ -292,10 +292,10 @@
             "html_url": "https://github.com/jxmked/Flappybird",
             "description": "Mimicking the old retro game FlappyBird but as a web app ",
             "languages": {
-                "TypeScript": 118264,
-                "JavaScript": 10266,
-                "SCSS": 2453,
-                "HTML": 377
+                "TypeScript": 117801,
+                "JavaScript": 15162,
+                "HTML": 3528,
+                "SCSS": 2332
             },
             "homepage": "https://jxmked.github.io/Flappybird/",
             "topics": [
@@ -308,7 +308,7 @@
                 "typescript",
                 "webpack"
             ],
-            "stars": 10,
+            "stars": 11,
             "forks": 10,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Flappybird/zipball/xio"
