@@ -1,5 +1,5 @@
 {
-    "time": 1771722915.4183912,
+    "time": 1771809287.372287,
     "data": [
         {
             "id": 945512554,
@@ -308,7 +308,7 @@
                 "typescript",
                 "webpack"
             ],
-            "stars": 11,
+            "stars": 12,
             "forks": 10,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/Flappybird/zipball/xio"
@@ -775,7 +775,7 @@
                 "twa",
                 "web-to-apk"
             ],
-            "stars": 1,
+            "stars": 2,
             "forks": 1,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/StaticWeb2AndroidApp/zipball/xio"
