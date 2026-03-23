@@ -1,5 +1,5 @@
 {
-    "time": 1774142259.6065593,
+    "time": 1774228720.0714567,
     "data": [
         {
             "id": 945512554,
@@ -293,7 +293,7 @@
             "description": "Mimicking the old retro game FlappyBird but as a web app ",
             "languages": {
                 "TypeScript": 117325,
-                "JavaScript": 14559,
+                "JavaScript": 14599,
                 "HTML": 3529,
                 "SCSS": 2332
             },
@@ -345,7 +345,7 @@
             "html_url": "https://github.com/jxmked/ga4-webpack-plugin",
             "description": "Injecting Google snippet into HTML for Analytics",
             "languages": {
-                "JavaScript": 3452
+                "JavaScript": 3484
             },
             "homepage": "https://www.npmjs.com/package/ga4-webpack-plugin",
             "topics": [
