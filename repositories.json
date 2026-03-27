@@ -1,5 +1,5 @@
 {
-    "time": 1774488137.6082492,
+    "time": 1774574526.0924277,
     "data": [
         {
             "id": 945512554,
@@ -376,7 +376,7 @@
                 "portfolio-include",
                 "sci-fi"
             ],
-            "stars": 9,
+            "stars": 10,
             "forks": 0,
             "default_branch": "xio",
             "download_link": "https://github.com/jxmked/github-stats-card/zipball/xio"
