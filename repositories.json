@@ -1,5 +1,5 @@
 {
-    "time": 1779849125.326255,
+    "time": 1779934011.6184525,
     "data": [
         {
             "id": 945512554,
@@ -405,15 +405,15 @@
             "node_id": "R_kgDOHw-Jpw",
             "name": "jxmked.github.io",
             "html_url": "https://github.com/jxmked/jxmked.github.io",
-            "description": null,
+            "description": "Landing page",
             "languages": {
-                "HTML": 90808,
-                "JavaScript": 14890,
-                "SCSS": 10005,
-                "CSS": 6219,
-                "TypeScript": 1646
+                "HTML": 97183,
+                "JavaScript": 14378,
+                "SCSS": 10902,
+                "CSS": 6443,
+                "TypeScript": 1693
             },
-            "homepage": null,
+            "homepage": "https://jxmked.space/",
             "topics": [],
             "stars": 0,
             "forks": 0,
@@ -934,7 +934,7 @@
             "description": "Multipage webpack rendering",
             "languages": {
                 "HTML": 92622,
-                "JavaScript": 14079,
+                "JavaScript": 14709,
                 "SCSS": 10005,
                 "CSS": 6219,
                 "TypeScript": 2124
