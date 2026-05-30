@@ -1,5 +1,5 @@
 {
-    "time": 1780020656.6432893,
+    "time": 1780106829.1834545,
     "data": [
         {
             "id": 945512554,
@@ -407,11 +407,11 @@
             "html_url": "https://github.com/jxmked/jxmked.github.io",
             "description": "Landing page",
             "languages": {
-                "HTML": 97183,
+                "HTML": 97304,
                 "JavaScript": 14378,
-                "SCSS": 10902,
+                "SCSS": 11588,
                 "CSS": 6443,
-                "TypeScript": 1693
+                "TypeScript": 3574
             },
             "homepage": "https://jxmked.space/",
             "topics": [],
