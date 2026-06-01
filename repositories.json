@@ -1,5 +1,5 @@
 {
-    "time": 1780194765.2097697,
+    "time": 1780281734.3799474,
     "data": [
         {
             "id": 945512554,
@@ -409,9 +409,9 @@
             "languages": {
                 "HTML": 97304,
                 "JavaScript": 14378,
-                "SCSS": 11588,
+                "SCSS": 11697,
                 "CSS": 6443,
-                "TypeScript": 3574
+                "TypeScript": 3644
             },
             "homepage": "https://jxmked.space/",
             "topics": [],
@@ -626,9 +626,9 @@
             "description": "Random design, functions and etc. that I created for web UI",
             "languages": {
                 "TypeScript": 28388,
-                "HTML": 25497,
+                "HTML": 25967,
                 "JavaScript": 17236,
-                "CSS": 16175,
+                "CSS": 16871,
                 "SCSS": 11893
             },
             "homepage": "https://jxmked.github.io/Random-Web-Ideas/",
